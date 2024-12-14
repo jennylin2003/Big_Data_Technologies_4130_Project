@@ -7,10 +7,14 @@ The technologies used in this project include Google Cloud Platform, PySpark, an
 
 This project is divided into six milestones, detailed as follows:
 
-Milestone 1: Project Proposal
-Milestone 2: Data Acquisition
-Milestone 3: Descriptive Statistics (EDA)
-Milestone 4: Feature Engineering and Modeling
+Milestone 1: Project Proposal  
+
+Milestone 2: Data Acquisition  
+
+Milestone 3: Descriptive Statistics (EDA)  
+
+Milestone 4: Feature Engineering and Modeling  
+
 Milestone 5: Visualizing Results  
 
 
